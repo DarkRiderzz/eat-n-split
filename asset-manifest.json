@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DarkRiderzz/eat-n-split/static/css/main.f38a3276.css",
+    "main.js": "/DarkRiderzz/eat-n-split/static/js/main.31bdc023.js",
+    "index.html": "/DarkRiderzz/eat-n-split/index.html",
+    "main.f38a3276.css.map": "/DarkRiderzz/eat-n-split/static/css/main.f38a3276.css.map",
+    "main.31bdc023.js.map": "/DarkRiderzz/eat-n-split/static/js/main.31bdc023.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f38a3276.css",
+    "static/js/main.31bdc023.js"
+  ]
+}
